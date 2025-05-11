@@ -1,0 +1,25 @@
+# Ignorar archivo de claves
+.env
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar datos generados
+comentarios_limpios2.csv
+comentarios_youtube1.csv
+comentarios_youtube2.csv
+comentarios_youtube3.csv
+comentarios_youtube4.csv
+comentarios_youtube5.csv
+comentarios_youtube6.csv
+comentarios_youtube7.csv
+comentarios_youtube8.csv
+plantilla_etiquetado.csv
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
